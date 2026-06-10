@@ -47,7 +47,7 @@ turbine = "1.2.1"
 roboelectric = "4.16.1"
 testCoroutines = "1.10.2"
 mediaPipeGenerator = "0.10.21"
-serialization = "1.10.0"
+serialization = "1.11.0"
 
 [libraries]
 android-tools-build-gradle = { group = "com.android.tools.build", name = "gradle", version.ref = "agp" }
