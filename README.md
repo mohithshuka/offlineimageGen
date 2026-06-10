@@ -149,9 +149,9 @@ Connect an Android device or start an emulator, then click **Run ▶️**.
 
 > Add screenshots here to showcase your app!
 
-| Home Screen | Prompt Input | Generating | Result |
-|:-----------:|:------------:|:----------:|:------:|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* | *(screenshot)* |
+ Result
+ <img width="1659" height="931" alt="Screenshot 2025-11-21 125647" src="https://github.com/user-attachments/assets/33fa666a-37fb-4e32-8871-8bec6da67bbe" />
+
 
 ---
 
