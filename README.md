@@ -150,10 +150,14 @@ Connect an Android device or start an emulator, then click **Run ▶️**.
 > Add screenshots here to showcase your app!
 
  Result
- <img width="1659" height="931" alt="Screenshot 2025-11-21 125647" src="https://github.com/user-attachments/assets/33fa666a-37fb-4e32-8871-8bec6da67bbe" />
-
+<img width="1886" height="1006" alt="Screenshot 2025-10-21 233715" src="https://github.com/user-attachments/assets/fad8d15d-8ffb-4666-bb89-00c45de09059" />
 
 ---
+
+## Download the app
+
+> app-foss-debug
+
 
 ## 🔒 Privacy
 
