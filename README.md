@@ -158,6 +158,7 @@ Connect an Android device or start an emulator, then click **Run ▶️**.
 
 > set this project in your android studio
 > https://github.com/mohithshuka/offlineimageGen/edit/main/README.md
+> "D:\majorProject\Stable-Diffusion-Android\app\build\outputs\apk\foss\debug\app-foss-debug.apk"
 
 ---
 
