@@ -150,7 +150,7 @@ Connect an Android device or start an emulator, then click **Run ▶️**.
 > Add screenshots here to showcase your app!
 
  Result
-<img width="1886" height="1006" alt="Screenshot 2025-10-21 233715" src="https://github.com/user-attachments/assets/fad8d15d-8ffb-4666-bb89-00c45de09059" />
+ <img width="1861" height="964" alt="Screenshot 2025-10-21 233715" src="https://github.com/user-attachments/assets/06df9e33-de4a-42a7-b82d-7ed7539b44b3" />
 
 ---
 
