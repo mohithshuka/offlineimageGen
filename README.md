@@ -156,8 +156,10 @@ Connect an Android device or start an emulator, then click **Run ▶️**.
 
 ## Download the app
 
-> app-foss-debug
+> set this project in your android studio
+> https://github.com/mohithshuka/offlineimageGen/edit/main/README.md
 
+---
 
 ## 🔒 Privacy
 
