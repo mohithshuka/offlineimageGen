@@ -171,7 +171,7 @@ Unlike cloud-based AI image generators, OfflineImageGen performs all inference *
 - ✅ No user data is **collected or stored remotely**
 - ✅ Works in **airplane mode**
 
-Your creativity stays private. Always.
+Your creativity stays private, Always.
 
 ---
 
