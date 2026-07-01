@@ -205,7 +205,7 @@ This project is intended for **educational and research purposes**.
 
 Please ensure compliance with the licenses of:
 - [Stable Diffusion](https://huggingface.co/spaces/CompVis/stable-diffusion-license) models.
-- [ONNX Runtime](https://github.com/microsoft/onnxruntime/blob/main/LICENSE)
+- [ONNX Runtime](https://github.com/microsoft/onnxruntime/blob/main/LICENSE) .
 
 ---
 
