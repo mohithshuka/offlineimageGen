@@ -4,7 +4,7 @@
 
 ### AI Image Generation — Fully On-Device
 
-**Generate stunning images from text prompts using Stable Diffusion, 100% offline.**  
+**Generate stunning images from text prompts using Stable Diffusion 100% offline.**  
 No internet. No subscriptions. No API keys. Your prompts never leave your phone.
 
 <br/>
