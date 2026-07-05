@@ -68,7 +68,7 @@ app/
 
 ---
 
-## 🚀 How It Works
+## 🚀 How It Works.
 
 ```
   Text Prompt
