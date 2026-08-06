@@ -34,7 +34,7 @@ No internet. No subscriptions. No API keys. Your prompts never leave your phone.
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
+| Layer | Technology. |
 |---|---|
 | Language | Kotlin |
 | Platform | Android SDK |
