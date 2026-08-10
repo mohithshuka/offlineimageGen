@@ -26,7 +26,7 @@ No internet. No subscriptions. No API keys. Your prompts never leave your phone.
 | 🎨 **Text-to-Image** | Generate images from any text prompt. |
 | 🔒 **100% Offline** | No internet needed after initial setup. |
 | ⚡ **On-Device Inference** | Runs directly on your Android hardware |
-| 💾 **Local Storage** | Save generated images to your device |
+| 💾 **Local Storage** | Save generated images to your device. |
 | 🚫 **No API Keys** | Completely free to use, forever. |
 | 🔐 **Privacy-First** | Prompts and images never leave your device |
 
